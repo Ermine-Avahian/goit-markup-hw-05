@@ -594,6 +594,7 @@ input {
   transform: translate(-50%, -50%);
   min-height: 584px;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 72px 24px 24px 24px;
 }
 
 .modal-close-btn {
@@ -634,10 +635,6 @@ input {
 .modal-close-btn:hover > .model-icon,
 .modal-close-btn:focus > .model-icon {
   fill: #fff;
-}
-
-.backdrop-modal {
-  padding: 72px 24px 24px 24px;
 }
 
 .modal-title {
