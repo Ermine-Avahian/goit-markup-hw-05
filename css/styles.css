@@ -681,7 +681,7 @@ input {
 }
 
 .modal-input:focus {
-  border-color: 1px solid #4d5ae5;
+  border-color: #4d5ae5;
 }
 
 .modal-field-icon {
@@ -735,6 +735,11 @@ input {
   color: #8e8f99;
   display: flex;
   align-items: center;
+}
+
+
+.label-check-icon{
+  display: inline-flex;
 }
 
 .check-text span {
