@@ -738,7 +738,6 @@ input {
 }
 
 .label-check-icon {
-  display: flex;
   margin-right: 8px;
   width: 16px;
   height: 16px;
