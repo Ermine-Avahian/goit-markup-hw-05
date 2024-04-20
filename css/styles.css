@@ -737,11 +737,6 @@ input {
   align-items: center;
 }
 
-
-.label-check-icon{
-  display: inline-flex;
-}
-
 .check-text span {
   display: flex;
   margin-right: 8px;
@@ -762,6 +757,10 @@ input {
   background-color: #404bbf;
   fill: #f4f4fd;
   border: none;
+}
+
+.label-check-icon {
+  display: inline-flex;
 }
 
 .chack-link {
